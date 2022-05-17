@@ -7,3 +7,7 @@ Install Node.js 16:
 Install Docker:
 
     sh <(curl https://raw.githubusercontent.com/hoanganh251098/ubuntu-setup-scripts/main/install-docker.sh || wget -O - https://raw.githubusercontent.com/hoanganh251098/ubuntu-setup-scripts/main/install-docker.sh)
+
+Install Redis:
+
+    sh <(curl https://raw.githubusercontent.com/hoanganh251098/ubuntu-setup-scripts/main/install-redis.sh || wget -O - https://raw.githubusercontent.com/hoanganh251098/ubuntu-setup-scripts/main/install-redis.sh)
